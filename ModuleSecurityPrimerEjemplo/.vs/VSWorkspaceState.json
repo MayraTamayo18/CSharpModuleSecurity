@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Data\\Implements",
+    "\\Data\\Interfaces",
+    "\\Entity",
+    "\\Entity\\Dto",
+    "\\Web",
+    "\\Web\\Controllers",
+    "\\Web\\Controllers\\implements",
+    "\\Web\\Controllers\\Interface"
+  ],
+  "SelectedNode": "\\ModuleSecurity.sln",
+  "PreviewInSolutionExplorer": false
+}
